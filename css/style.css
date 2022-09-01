@@ -50,7 +50,7 @@ body {
 .contacts-link {
   line-height: 1.15;
   letter-spacing: 0.02em;
-  color: inherit;
+  color: var(--submain-text-color);
 }
 
 .contacts-link:hover,
